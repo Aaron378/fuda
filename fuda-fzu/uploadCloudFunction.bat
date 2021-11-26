@@ -1,0 +1,1 @@
+"D:\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-1gq2wa6591abf920 --n quickstartFunctions --r --project "C:\Users\86131\Desktop\miniprogram-3\fuda" --report_first --report
